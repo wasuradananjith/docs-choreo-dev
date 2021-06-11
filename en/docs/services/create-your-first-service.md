@@ -57,7 +57,7 @@ To design the service to fetch the current active COVID-19 cases in the United S
 
     6. Click **Save & Done**.
         
-   Now you have designed the service to fetch the active COVID-19 cases in the United States.
+       Now you have designed the service to fetch the active COVID-19 cases in the United States.
     
 4. To store the response from the public API to your service, follow this procedure:
 
